@@ -104,7 +104,7 @@ foreach($results as $row)
     
 if($row->Status=="On The Way")
 {
-  echo "Driver is on the way";
+  echo "Collector is on the way";
 }
 
 if($row->Status=="Completed")

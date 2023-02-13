@@ -132,7 +132,7 @@ $query1->execute();
 $results1=$query1->fetchAll(PDO::FETCH_OBJ);
 $totdriver=$query1->rowCount();
 ?>
-                            <h6>Total Drivers</h6>
+                            <h6>Total Collector</h6>
                             <h2><?php echo htmlentities($totdriver);?></h2>
                            <a href="manage-driver.php"><small> View Detail</small></a>
                         </div>

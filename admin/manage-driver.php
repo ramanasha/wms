@@ -26,7 +26,7 @@ $query->execute();
 
 <head>
   
-    <title>SMARCC System: Manage Driver</title>
+    <title>SMARCC System: Manage Collector</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -54,7 +54,7 @@ $query->execute();
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="header">
-                                <h2><strong>Mange</strong> Driver </h2>
+                                <h2><strong>Mange</strong> Collector </h2>
                             </div>
                             <div class="body">
                                 <div class="table-responsive">

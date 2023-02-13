@@ -112,7 +112,7 @@ foreach($results as $row)
     
   </tr>
   <tr>
-    <th>Driver Assignee</th>
+    <th>Collector Assignee</th>
     <?php if($row->DriverAssignee==""){ ?>
 
                      <td><?php echo "Not Updated Yet"; ?></td>
@@ -129,7 +129,7 @@ foreach($results as $row)
     
 if($row->Status=="On The Way")
 {
-  echo "Driver is on the way";
+  echo "Collector is on the way";
 }
 
 if($row->Status=="Completed")
@@ -145,7 +145,7 @@ if($row->Status=="")
 
 
      ;?></td>
-    <th>Driver Remark</th>
+    <th>Collector Remark</th>
     <?php if($row->Status==""){ ?>
 
                      <td  colspan="4"><?php echo "Not Updated Yet"; ?></td>

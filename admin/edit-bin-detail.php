@@ -126,7 +126,7 @@ foreach($results as $row)
                                          <textarea type="text" class="form-control" id="address" name="address" value="" required='true'><?php  echo $row->Address;?></textarea>
                                     </div>
                                     <div class="form-group">
-                                        <label>Assign Driver</label>
+                                        <label>Assign Collector</label>
                                         
                                          <select name="assignee" placeholder="Assign To"  class="form-control" required='true'>
         <option value="<?php  echo $row->DriverAssignee;?>"><?php  echo $row->DriverAssignee;?></option>

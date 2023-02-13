@@ -96,7 +96,7 @@ foreach($results as $row)
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.php" class="nav-item nav-link active">Home</a>
                 <a href="admin/login.php" class="nav-item nav-link">Admin</a>
-                <a href="driver/login.php" class="nav-item nav-link">Driver</a>
+                <a href="driver/login.php" class="nav-item nav-link">Collector</a>
                 <a href="user/login.php" class="nav-item nav-link">User</a>
             </div>
             
@@ -191,7 +191,7 @@ foreach($results1 as $row1)
                     <h4 class="text-light mb-4">Quick Links</h4>
                     <a class="btn btn-link" href="index.php">Home Page</a>
                     <a class="btn btn-link" href="admin/login.php">Admin</a>
-                    <a class="btn btn-link" href="driver/login.php">Driver</a>
+                    <a class="btn btn-link" href="driver/login.php">Collector</a>
                     <a class="btn btn-link" href="user/login.php">User</a>
                    
                 </div>

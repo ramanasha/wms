@@ -57,7 +57,7 @@ $query->execute();
                     <div class="col-md-12">
                         <div class="card">
                             <div class="header">
-                                <h2>Driver Profile</h2>
+                                <h2>Collector Profile</h2>
                             </div>
                             <div class="body">
                                 <form id="" method="post" novalidate>

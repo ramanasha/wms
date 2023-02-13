@@ -74,7 +74,7 @@ $query->execute();
                                                <th>S.No</th>
                                        <th>Bin ID</th>
                                         <th>Address</th>
-                                        <th>Assign To(Driver ID)</th>
+                                        <th>Assign To(Collector ID)</th>
                                         <th>Assign Date</th>
                                         <th>Action</th>
                                             </tr>

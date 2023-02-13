@@ -35,14 +35,14 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
         <div class="page">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="javascript:void(0);">Driverwise Between dates Report of Cleaning Bin</a>
+                <a class="navbar-brand" href="javascript:void(0);">Collectorwise Between dates Report of Cleaning Bin</a>
             </nav>
             <div class="container-fluid">            
                 <div class="row clearfix">
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="header">
-                                <h2>Driverwise Between dates Report of Cleaning Bin </h2>
+                                <h2>Collectorwise Between dates Report of Cleaning Bin </h2>
                             </div>
                             
                             <div class="body">

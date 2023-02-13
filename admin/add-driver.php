@@ -59,7 +59,7 @@ echo "<script>alert('Email-id,Employee Id or Mobile Number already exist. Please
 <!doctype html>
 <html lang="en">
 <head>
-<title>SMARCC System: Add Driver</title>
+<title>SMARCC System: Add Collector</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -87,13 +87,13 @@ echo "<script>alert('Email-id,Employee Id or Mobile Number already exist. Please
                     <div class="col-md-12">
                         <div class="card">
                             <div class="header">
-                                <h2>Add Driver</h2>
+                                <h2>Add Collector</h2>
                             </div>
                             <div class="body">
                                 <form  method="post" >
                                     
                                     <div class="form-group">
-                                        <label>Driver ID</label>
+                                        <label>Collector ID</label>
                                         <input type="text" class="form-control" id="exampleTextInput1" name="driid" value="" required='true' maxlength="10">
                                     </div>
                                     <div class="form-group">

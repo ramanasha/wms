@@ -100,7 +100,7 @@ $totalreq=$query->rowCount();
                 <li class="nav-item dropdown">
                     <a class="nav-link nav-link-icon" href="javascript:void(0);" id="navbar_1_dropdown_3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i></a>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <h6 class="dropdown-header">Driver menu</h6>
+                        <h6 class="dropdown-header">Collector menu</h6>
                         <a class="dropdown-item" href="profile.php"><i class="fa fa-user text-primary"></i>My Profile</a>
                         
                         <a class="dropdown-item" href="change-password.php"><i class="fa fa-cog text-primary"></i>Settings</a>

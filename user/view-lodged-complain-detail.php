@@ -130,7 +130,7 @@ if($row->Status=="Rejected")
 }
 if($row->Status=="On the way")
 {
- echo "Driver is on the way";
+ echo "Collector is on the way";
 }
 if($row->Status=="Completed")
 {

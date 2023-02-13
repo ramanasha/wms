@@ -30,15 +30,15 @@ foreach($results as $row)
                        
                     </ul>
                 </li>
-                <li class="ti"><a href="#"><i class="ti-layout-grid2"></i><span>Manage Category</span></a></li>
+                <li class="ti"><a href="#"><i class="ti-layout-grid2    "></i><span>Manage Category</span></a></li>
                 <li class="ti"><a href="#"><i class="ti-medall-alt"></i><span>Manage Rewards</span></a></li>
                 <li class="ti"><a href="#"><i class="ti-tag"></i><span>Manage Transactions</span></a></li>
                 <li class="ti"><a href="#"><i class="ti-reload"></i><span>Transactions history</span></a></li>
                 <li>
-                    <a href="" class="has-arrow"><i class="ti-user"></i><span>Driver</span></a>
+                    <a href="" class="has-arrow"><i class="ti-user"></i><span>Collector</span></a>
                     <ul>
-                        <li><a href="add-driver.php">Add Driver</a></li>
-                        <li><a href="manage-driver.php">Manage Driver</a></li>
+                        <li><a href="add-driver.php">Add Collector</a></li>
+                        <li><a href="manage-driver.php">Manage Collector</a></li>
                        
                     </ul>
                 </li>
@@ -53,7 +53,7 @@ foreach($results as $row)
                     </ul>
                 </li>
                 <li>
-                    <a href="javascript:void(0)" class="has-arrow"><i class="ti-view-list"></i><span>Driver Request Response</span></a>
+                    <a href="javascript:void(0)" class="has-arrow"><i class="ti-view-list"></i><span>Collector Request Response</span></a>
                     <ul>
                         <li><a href="ontheway-complain.php">On The Way</a></li>
                         <li><a href="completed-complain.php">Plastic Cleaned</a></li>
@@ -61,7 +61,7 @@ foreach($results as $row)
                     </ul>
                 </li>
                 <li>
-                    <a href="javascript:void(0)" class="has-arrow"><i class="ti-view-list"></i><span>Driver Bin Response</span></a>
+                    <a href="javascript:void(0)" class="has-arrow"><i class="ti-view-list"></i><span>Collector Bin Response</span></a>
                     <ul>
                         <li><a href="ontheway.php">On The Way</a></li>
                         <li><a href="completed.php">Task Completed</a></li>
@@ -82,9 +82,9 @@ foreach($results as $row)
                     <a href="javascript:void(0)" class="has-arrow"><i class="ti-lock"></i><span>Report</span></a>
                     <ul>
                         <li><a class="dropdown-item" href="between-dates-complain-reports.php">B/W Dates Lodged Request </a></li>
-                        <li><a class="dropdown-item" href="driverwise-complain-report.php">Driverwise Lodged Request </a></li>
+                        <li><a class="dropdown-item" href="driverwise-complain-report.php">Collectorwise Lodged Request </a></li>
                          <li><a class="dropdown-item" href="between-dates-bin-reports.php">Bin Cleaning B/w Dates  </a></li>
-                        <li><a class="dropdown-item" href="driverwise-report.php">Driverwise Bin Cleaning </a></li>
+                        <li><a class="dropdown-item" href="driverwise-report.php">Collectorwise Bin Cleaning </a></li>
                      
                     </ul>
                 </li>

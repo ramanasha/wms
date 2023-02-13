@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
 <head>
   
-    <title>SMARCC System: Driverwise Request Lodged Report</title>
+    <title>SMARCC System: Collectorwise Request Lodged Report</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -42,7 +42,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="header">
-                                <h2>Driverwise Request Lodged Report </h2>
+                                <h2>Collectorwise Request Lodged Report </h2>
                             </div>
                             
                             <div class="body">

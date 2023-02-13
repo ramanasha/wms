@@ -134,7 +134,7 @@ echo "<script>alert('Bin-id already exist. Please try again');</script>";
                                          <textarea type="text" class="form-control" id="address" name="address" value="" required='true'></textarea>
                                     </div>
                                     <div class="form-group">
-                                        <label>Assign Driver</label>
+                                        <label>Assign Collector</label>
                                         
                                          <select name="assignee" placeholder="Assign To"  class="form-control" required='true'>
         <option value="">Assign To</option>

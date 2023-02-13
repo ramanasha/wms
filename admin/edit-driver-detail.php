@@ -27,7 +27,7 @@ $query->bindParam(':address',$address,PDO::PARAM_STR);
 $query->bindParam(':eid',$eid,PDO::PARAM_STR);
  $query->execute();
 
-  echo '<script>alert("Driver detail has been updated")</script>';
+  echo '<script>alert("Collector detail has been updated")</script>';
   
 
 }
@@ -36,7 +36,7 @@ $query->bindParam(':eid',$eid,PDO::PARAM_STR);
 <!doctype html>
 <html lang="en">
 <head>
-<title>SMARCC System: Update Driver</title>
+<title>SMARCC System: Update Collector</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -56,7 +56,7 @@ $query->bindParam(':eid',$eid,PDO::PARAM_STR);
 
         <div class="page">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="javascript:void(0);">Update Driver</a>
+                <a class="navbar-brand" href="javascript:void(0);">Update Collector</a>
                
             </nav>
             <div class="container-fluid">
@@ -64,7 +64,7 @@ $query->bindParam(':eid',$eid,PDO::PARAM_STR);
                     <div class="col-md-12">
                         <div class="card">
                             <div class="header">
-                                <h2>Update Driver</h2>
+                                <h2>Update Collector</h2>
                             </div>
                             <div class="body">
                                 <form id="" method="post" novalidate>
@@ -80,7 +80,7 @@ if($query->rowCount() > 0)
 foreach($results as $row)
 {               ?>
                                     <div class="form-group">
-                                        <label>Driver ID</label>
+                                        <label>Collector ID</label>
                                         <input type="text" class="form-control" name="driid" value="<?php  echo htmlentities($row->DriverID);?>" readonly='true' maxlength="10">
                                     </div>
                                     <div class="form-group">

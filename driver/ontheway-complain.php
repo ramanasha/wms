@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsid']==0)) {
 
 <head>
   
-    <title>SMARCC System: Driver on the way for cleaning</title>
+    <title>SMARCC System: Collector on the way for cleaning</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -35,14 +35,14 @@ if (strlen($_SESSION['vamsid']==0)) {
 
         <div class="page">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="javascript:void(0);">Driver on the way for cleaning</a>
+                <a class="navbar-brand" href="javascript:void(0);">Collector on the way for cleaning</a>
             </nav>
             <div class="container-fluid">            
                 <div class="row clearfix">
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="header">
-                                <h2>Driver on the way for cleaning </h2>
+                                <h2>Collector on the way for cleaning </h2>
                             </div>
                             <div class="body">
                                 <div class="table-responsive">

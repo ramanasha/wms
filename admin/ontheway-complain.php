@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
 <head>
   
-    <title>SMARCC System: Driver is on the way for Plastic</title>
+    <title>SMARCC System: Collector is on the way for Plastic</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -42,7 +42,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="header">
-                                <h2>Driver is on the way for Plastic </h2>
+                                <h2>Collector is on the way for Plastic </h2>
                             </div>
                             <div class="body">
                                 <div class="table-responsive">
