@@ -8,7 +8,7 @@
 <nav class="navbar custom-navbar navbar-expand-lg py-2">
     <div class="container-fluid px-0">
         <a href="javascript:void(0);" class="menu_toggle"><i class="fa fa-align-left"></i></a>
-        <a href="dashboard.php" class="navbar-brand"><strong>Plastic Management</strong> System</a>
+        <a href="dashboard.php" class="navbar-brand"><strong>SMARCC </strong> System</a>
         <div id="navbar_main">
             <ul class="navbar-nav mr-auto hidden-xs">
                 <li class="nav-item page-header">

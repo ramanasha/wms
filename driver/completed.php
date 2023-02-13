@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsid']==0)) {
 
 <head>
   
-    <title>Plastic Management System: Plastic bin cleaned</title>
+    <title>SMARCC System: Plastic bin cleaned</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

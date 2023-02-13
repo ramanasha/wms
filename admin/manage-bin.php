@@ -26,7 +26,7 @@ $query->execute();
 
 <head>
   
-    <title>Plastic Management System: Manage Bin</title>
+    <title>SMARCC System: Manage Bin</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

@@ -33,7 +33,7 @@ echo "<script>alert('Invalid Details');</script>";
 
 <head>
     
-    <title>Plastic Management System: Login</title>
+    <title>SMARCC System: Login</title>
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
 

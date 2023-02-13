@@ -25,12 +25,12 @@ $fname=$row->Name;
                 <li class="active"><a href="dashboard.php"><i class="ti-home"></i><span>Dashboard</span></a></li>
                
                <li>
-                    <a href="javascript:void(0)" class="has-arrow"><i class="ti-pencil-alt"></i><span>Assign Complain</span></a>
+                    <a href="javascript:void(0)" class="has-arrow"><i class="ti-pencil-alt"></i><span>Assign Request</span></a>
                     <ul>
-                        <li><a href="new-complain-request.php">New Complain</a></li>
-                        <li><a href="ontheway-complain.php">On the way Complain</a></li>
-                        <li><a href="completed-complain.php">Completed Complain</a></li>
-                        <li><a href="all-complain.php">All Complain</a></li>
+                        <li><a href="new-complain-request.php">New Request</a></li>
+                        <li><a href="ontheway-complain.php">On the way Request</a></li>
+                        <li><a href="completed-complain.php">Completed Request</a></li>
+                        <li><a href="all-complain.php">All Request</a></li>
                        
                     </ul>
                 </li>
@@ -48,7 +48,7 @@ $fname=$row->Name;
                     <a href="javascript:void(0)" class="has-arrow"><i class="ti-search"></i><span>Search</span></a>
                     <ul>
                         <li><a href="search-bin.php">Search Bin</a></li>
-                        <li><a href="search-complain.php">Search Lodged Complain</a></li>
+                        <li><a href="search-complain.php">Search Lodged Request</a></li>
                        
                        
                     </ul>
@@ -59,7 +59,7 @@ $fname=$row->Name;
                     <a href="javascript:void(0)" class="has-arrow"><i class="ti-lock"></i><span>Report</span></a>
                     <ul>
                         <li><a class="dropdown-item" href="collected-bin-report.php">Collected Bin Report</a></li>
-                       <li><a class="dropdown-item" href="lodged-complain-report.php">Lodged Complain Report</a></li>
+                       <li><a class="dropdown-item" href="lodged-complain-report.php">Lodged Request Report</a></li>
                     </ul>
                 </li>
             </ul>            

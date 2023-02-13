@@ -41,7 +41,7 @@ echo '<script>alert("Your current password is wrong")</script>';
 <!doctype html>
 <html lang="en">
 <head>
-<title>Plastic Collection Management System: Change Password</title>
+<title>SMARCC  System: Change Password</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

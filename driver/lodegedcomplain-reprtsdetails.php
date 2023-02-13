@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsid']==0)) {
 
 <head>
   
-    <title>Garbage Management System: View Task Competed Report For Lodged Complain</title>
+    <title>Garbage Management System: View Task Competed Report For Lodged Request</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -42,7 +42,7 @@ if (strlen($_SESSION['vamsid']==0)) {
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="header">
-                                <h2>View Task Competed Report For Lodged Complain</h2>
+                                <h2>View Task Competed Report For Lodged Request</h2>
                             </div>
                             <div class="body">
                                 <?php

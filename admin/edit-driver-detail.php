@@ -36,7 +36,7 @@ $query->bindParam(':eid',$eid,PDO::PARAM_STR);
 <!doctype html>
 <html lang="en">
 <head>
-<title>Plastic Management System: Update Driver</title>
+<title>SMARCC System: Update Driver</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

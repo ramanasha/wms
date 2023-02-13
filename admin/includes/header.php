@@ -2,7 +2,7 @@
 <nav class="navbar custom-navbar navbar-expand-lg py-2">
     <div class="container-fluid px-0">
         
-        <a href="dashboard.php" class="navbar-brand"><strong>Plastic Management System</strong></a>
+        <a href="dashboard.php" class="navbar-brand"><strong>SMARCC System</strong></a>
         <div id="navbar_main">
             <ul class="navbar-nav mr-auto hidden-xs">
                 <li class="nav-item page-header">

@@ -14,7 +14,7 @@ if (strlen($_SESSION['uuid']==0)) {
 
 <head>
   
-    <title>Plastic Management System: Search Complain</title>
+    <title>SMARCC System: Search Complain</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

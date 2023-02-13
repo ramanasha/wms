@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
 <head>
   
-    <title>Garbage Management System: driverwise Between dates Report of User Complains </title>
+    <title>SMARCC System: driverwise Between dates Report of User Requests </title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -35,7 +35,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
         <div class="page">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="javascript:void(0);">driverwise Between dates Report of User Complains</a>
+                <a class="navbar-brand" href="javascript:void(0);">driverwise Between dates Report of User Requests</a>
             </nav>
             <div class="container-fluid">            
                 <div class="row clearfix">

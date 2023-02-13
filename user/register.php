@@ -51,7 +51,7 @@ echo "<script>alert('Email-id already exist. Please try again');</script>";
 
 <head>
     
-    <title>Plastic Management System: Signup</title>
+    <title>SMARCC System: Signup</title>
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
 
@@ -73,7 +73,7 @@ echo "<script>alert('Email-id already exist. Please try again');</script>";
 				<div class="auth-box">
                     <div class="top">
                        
-                        <strong>Plastic</strong> <span>Management System</span>
+                        <strong>SMARCC</strong> <span>System</span>
                     </div>
 					<div class="card">
                         <div class="header">

@@ -59,7 +59,7 @@ echo "<script>alert('Email-id,Employee Id or Mobile Number already exist. Please
 <!doctype html>
 <html lang="en">
 <head>
-<title>Plastic Collection System: Add Driver</title>
+<title>SMARCC System: Add Driver</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

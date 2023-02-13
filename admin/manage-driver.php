@@ -26,7 +26,7 @@ $query->execute();
 
 <head>
   
-    <title>Plastic Management System: Manage Driver</title>
+    <title>SMARCC System: Manage Driver</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

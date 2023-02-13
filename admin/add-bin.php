@@ -61,7 +61,7 @@ echo "<script>alert('Bin-id already exist. Please try again');</script>";
 <!doctype html>
 <html lang="en">
 <head>
-<title>Garbage Management System: Add Bin</title>
+<title>SMARCC System: Add Bin</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

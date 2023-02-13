@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
 <head>
   
-    <title>Plastic Management System: Rejected Lodged Request</title>
+    <title>SMARCC System: Rejected Lodged Request</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

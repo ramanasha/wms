@@ -52,7 +52,7 @@ echo "<script>window.location.href ='lodged-complain.php'</script>";
 <!doctype html>
 <html lang="en">
 <head>
-<title>Plastic Management System: Lodged Request</title>
+<title>SMARCCt System: Lodged Request</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

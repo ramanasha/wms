@@ -35,7 +35,7 @@ echo "<script>alert('Email id or Mobile no is invalid');</script>";
 
 <head>
     
-    <title>Plastic Management System: Forgot Password</title>
+    <title>SMARCC System: Forgot Password</title>
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
 

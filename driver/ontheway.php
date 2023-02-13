@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsid']==0)) {
 
 <head>
   
-    <title>Plastic Management System: Driver is on the way for cleaning bin</title>
+    <title>SMARCC System: Driver is on the way for cleaning bin</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

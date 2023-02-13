@@ -43,7 +43,7 @@ $query->bindParam(':eid',$eid,PDO::PARAM_STR);
 <!doctype html>
 <html lang="en">
 <head>
-<title>Plastic Management System: Update Bin Details</title>
+<title>SMARCC System: Update Bin Details</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

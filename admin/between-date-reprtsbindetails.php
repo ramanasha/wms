@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
 <head>
   
-    <title>Plastic Collection System: Between Dates Report of Plastic Bin</title>
+    <title>SMARCC System: Between Dates Report of Plastic Bin</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

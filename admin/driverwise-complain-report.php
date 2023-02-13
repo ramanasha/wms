@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
 <head>
   
-    <title>Garbage Management System: Driverwise Request Lodged Report</title>
+    <title>SMARCC System: Driverwise Request Lodged Report</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

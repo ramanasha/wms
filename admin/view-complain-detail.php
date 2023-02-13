@@ -40,7 +40,7 @@ $query->bindParam(':eid',$eid,PDO::PARAM_STR);
 
 <head>
   
-    <title>Plastic Management System: View Request</title>
+    <title>SMARCC System: View Request</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

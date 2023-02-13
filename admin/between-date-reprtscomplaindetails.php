@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
 <head>
   
-    <title>Garbage Management System: Between Dates Report of Complain Lodged</title>
+    <title>SMARCC System: Between Dates Report of Request Lodged</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -35,7 +35,7 @@ if (strlen($_SESSION['vamsaid']==0)) {
 
         <div class="page">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="javascript:void(0);">Between Dates Report of Complain Lodged</a>
+                <a class="navbar-brand" href="javascript:void(0);">Between Dates Report of Request Lodged</a>
             </nav>
             <div class="container-fluid">            
                 <div class="row clearfix">
@@ -56,7 +56,7 @@ $tdate=$_POST['todate'];
                                         <thead>
                                            <tr>
                                                <th>S.No</th>
-                                        <th>Complain Number</th>
+                                        <th>Request Number</th>
                                         <th>Name</th>
                                         <th>Mobile Number</th>
                                         <th>Email</th>
@@ -67,7 +67,7 @@ $tdate=$_POST['todate'];
                                         <tfoot>
                                             <tr>
                                                <th>S.No</th>
-                                        <th>Complain Number</th>
+                                        <th>Request Number</th>
                                         <th>Name</th>
                                         <th>Mobile Number</th>
                                         <th>Email</th>

@@ -29,7 +29,7 @@ echo '<script>alert("About us has been updated")</script>';
 <!doctype html>
 <html lang="en">
 <head>
-<title>Garbage Management System: Update About Us</title>
+<title>SMARCC System: Update About Us</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

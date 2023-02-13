@@ -9,7 +9,7 @@ include('includes/dbconnection.php');
 
 <head>
     <meta charset="utf-8">
-    <title>Plastic Collection System || Home Page</title>
+    <title>SMARCC System || Home Page</title>
    
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -87,7 +87,7 @@ foreach($results as $row)
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h2 class="m-0 text-primary">Plastic Collection System</h2>
+            <h2 class="m-0 text-primary">SMARCC System</h2>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -202,11 +202,11 @@ foreach($results1 as $row1)
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Plastic Collection System</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">SMARCC System</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                        
-                    Plastic Collection System
+                    SMARCC  System
                     </div>
                 </div>
             </div>

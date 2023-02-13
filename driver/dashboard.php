@@ -12,7 +12,7 @@ if (strlen($_SESSION['vamsid']==0)) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Plastic Management System: Dashboard</title>
+<title>SMARCC System: Dashboard</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

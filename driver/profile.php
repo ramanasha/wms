@@ -29,7 +29,7 @@ $query->execute();
 <!doctype html>
 <html lang="en">
 <head>
-<title>Plastic Management System: Profile</title>
+<title>SMARCC System: Profile</title>
 
 <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

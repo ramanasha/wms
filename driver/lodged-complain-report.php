@@ -14,7 +14,7 @@ if (strlen($_SESSION['vamsid']==0)) {
 
 <head>
   
-    <title>Plastic Management System: Task Completed Report</title>
+    <title>SMARCC System: Task Completed Report</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">

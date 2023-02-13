@@ -14,7 +14,7 @@ if (strlen($_SESSION['uuid']==0)) {
 
 <head>
   
-    <title>Garbage Management System: Lodged Complain History</title>
+    <title>SMARCC System: Lodged Request History</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
@@ -42,7 +42,7 @@ if (strlen($_SESSION['uuid']==0)) {
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="header">
-                                <h2><strong>Lodged Complain</strong> History </h2>
+                                <h2><strong>Lodged Request</strong> History </h2>
                             </div>
                             <div class="body">
                                 <div class="table-responsive">
@@ -50,7 +50,7 @@ if (strlen($_SESSION['uuid']==0)) {
                                         <thead>
                                             <tr>
                                                <th>S.No</th>
-                                        <th>Complain Number</th>
+                                        <th>Request Number</th>
                                         <th>Name</th>
                                         <th>Mobile Number</th>
                                         <th>Email</th>
@@ -61,7 +61,7 @@ if (strlen($_SESSION['uuid']==0)) {
                                         <tfoot>
                                             <tr>
                                                <th>S.No</th>
-                                        <th>Complain Number</th>
+                                        <th>Request Number</th>
                                         <th>Name</th>
                                         <th>Mobile Number</th>
                                         <th>Email</th>
