@@ -30,6 +30,10 @@ foreach($results as $row)
                        
                     </ul>
                 </li>
+                <li class="ti"><a href="#"><i class="ti-layout-grid2"></i><span>Manage Category</span></a></li>
+                <li class="ti"><a href="#"><i class="ti-medall-alt"></i><span>Manage Rewards</span></a></li>
+                <li class="ti"><a href="#"><i class="ti-tag"></i><span>Manage Transactions</span></a></li>
+                <li class="ti"><a href="#"><i class="ti-reload"></i><span>Transactions history</span></a></li>
                 <li>
                     <a href="" class="has-arrow"><i class="ti-user"></i><span>Driver</span></a>
                     <ul>

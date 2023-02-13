@@ -23,7 +23,8 @@ $fname=$row->Name;
             <ul id="main-menu" class="metismenu">
             
                 <li class="active"><a href="dashboard.php"><i class="ti-home"></i><span>Dashboard</span></a></li>
-               
+                <li class="ti"><a href="#"><i class="ti-medall-alt"></i><span>Rewards</span></a></li>
+                <li class="ti"><a href="#"><i class="ti-reload"></i><span>Transactions history</span></a></li>
                <li>
                     <a href="javascript:void(0)" class="has-arrow"><i class="ti-pencil-alt"></i><span>Assign Request</span></a>
                     <ul>

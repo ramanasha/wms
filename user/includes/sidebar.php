@@ -23,6 +23,8 @@ $fname=$row->FullName;
             <ul id="main-menu" class="metismenu">
             
                 <li class="active"><a href="dashboard.php"><i class="ti-home"></i><span>Dashboard</span></a></li>
+                <li class="ti"><a href="#"><i class="ti-medall-alt"></i><span>Rewards</span></a></li>
+                <li class="ti"><a href="#"><i class="ti-reload"></i><span>Transactions history</span></a></li>
                
                <li><a href="lodged-complain.php"><i class="ti-files"></i><span>lodged Request</span></a></li>
                 <li><a href="lodged-complain-history.php"><i class="ti-files"></i><span>Request History</span></a></li>
